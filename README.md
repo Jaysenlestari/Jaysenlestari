@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <b>Jaysen Lestari</b> 👋</h1>
-<h3 align="center">Computer Science @ Fasilkom UI • CTF Player • Security Engineer in the Making</h3>
+<h3 align="center">Computer Science @ Fasilkom UI • CTF Player </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaysenlestari&label=Profile%20Views&color=blue&style=flat" />
