@@ -49,8 +49,8 @@ Django full-stack webapp + Flutter mobile client:
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaysenlestari&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysenlestari&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jaysenlestari&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.vercel.app/?user=jaysenlestari&theme=tokyonight" />
 </p>
 
 <p align="center">
