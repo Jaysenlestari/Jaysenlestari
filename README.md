@@ -1,70 +1,140 @@
-<h1 align="center">Hi, I'm Jaysen Lestari 👋</h1>
+<h1 align="center">Hi, I'm <b>Jaysen Lestari</b> 👋</h1>
+<h3 align="center">Computer Science @ Universitas Indonesia • Cybersecurity • DFIR • Backend & Cloud</h3>
 
 <p align="center">
-  <strong>Computer Science @ Universitas Indonesia</strong><br>
-  Cybersecurity • Digital Forensics & Incident Response • Malware Analysis • CTF
-</p>
-
-<p align="center">
-  <a href="https://jaysenlestari.dev/">Portfolio & Write-ups</a> ·
-  <a href="https://github.com/Jaysenlestari/CTF">CTF Challenges</a> ·
-  <a href="https://www.linkedin.com/in/jaysen-lestari-58a074308">LinkedIn</a> ·
+  <a href="https://jaysenlestari.dev/">Portfolio</a> •
+  <a href="https://github.com/Jaysenlestari">GitHub</a> •
+  <a href="https://www.linkedin.com/in/jaysen-lestari-58a074308/">LinkedIn</a> •
   <a href="mailto:lestarijaysen@gmail.com">Email</a>
 </p>
 
 ---
 
-### About me
+## 👨‍💻 About Me
 
-I'm a Computer Science student at **Universitas Indonesia** with a focus on **digital forensics, incident response, malware analysis, and threat hunting**. I enjoy reconstructing attacks from disk, memory, and network evidence—and creating CTF challenges that turn those investigations into hands-on learning experiences.
-
-- 🔎 **Cyber Threat Response & Solution Intern at Superbank** — threat intelligence tooling, threat hunting, and SOC alert investigation. *(Internal tooling is not publicly available.)*
-- 🧩 **CTF Problem Setter at COMPFEST 17 & 18** — building digital forensics, malware analysis, and web exploitation challenges.
-- 🛠️ **Lead, Network, Security & Operating System SIG at RISTEK** — helping run cybersecurity workshops and CTF learning activities.
-- ✍️ I publish detailed investigation notes and technical write-ups at **[jaysenlestari.dev](https://jaysenlestari.dev/)**.
-
-### Selected achievements
-
-- 🥇 **HackToday 2026** — 1st place
-- 🌍 **HTB University CTF 2025** — 4th worldwide, 1st in Indonesia (1,013 teams)
-- 🌍 **HTB Holmes CTF 2026** — 13th worldwide, 1st in Indonesia (5,635 teams)
-- 🥈 **Wreck-IT 7.0** — 2nd place
-- 🥉 **Cyber Jawara 2025** — 3rd place
-
-### Featured security research & write-ups
-
-| Write-up | Topics |
-| --- | --- |
-| [COMPFEST 18 — The Apex Affair](https://jaysenlestari.dev/Compfest18Qual-TheApexAffair/) | Challenge design, Windows forensics, Google Calendar C2, ransomware, Ethereum smart contracts |
-| [HTB Holmes CTF 2026 — Silent Dividend](https://jaysenlestari.dev/HTB-HolmesCTF2026-Silent-Dividend/) | Malware analysis, Electron/NSIS, LuaJIT, smart contracts |
-| [HTB Sherlock — Lovely Malware](https://jaysenlestari.github.io/Sherlock-LovelyMalware/) | Windows ransomware reversing, TLS callbacks, API hashing, AES-CBC |
-| [C2C 2026 — Breached](https://jaysenlestari.github.io/C2C2026Qual-Breached/) | Linux forensics, web exploitation, PAM persistence, ransomware recovery |
-| [HeroCTF v7 — Operation Pensieve Breach](https://jaysenlestari.github.io/heroctfv7-full-forensics/) | Multi-source DFIR, Active Directory, memory and network forensics |
-
-➡️ **[Explore more technical write-ups](https://jaysenlestari.dev/)**
-
-### Featured projects
-
-**[CTF Challenge Development](https://github.com/Jaysenlestari/CTF)**  
-Original digital forensics, malware analysis, cryptography, and web exploitation challenges, with realistic attack scenarios and intended solution paths.
-
-**[JSON — Microservices-Based E-Commerce Platform](https://github.com/advprog-2026-A8-project)**  
-Developed a **Spring Boot wallet and transaction microservice** with REST/gRPC, concurrency controls, and software design patterns. Managed **deployment of all five backend microservices** with Docker on AWS EC2, CI/CD via GitHub Actions, security/code-quality scanning, and observability using Prometheus and Grafana.
-
-**LigaPass — Full-Stack Web & Mobile Application** · [Django](https://github.com/PBP-C-06/LigaPass) · [Flutter](https://github.com/PBP-C-06/LigaPass-mobile)  
-Built a football-ticketing application with Django and Flutter. Awarded **Best Application (Web & Mobile)** and **Most Favourite App** in the Platform-Based Programming course.
-
-### Tools & technologies
-
-| Area | Technologies |
-| --- | --- |
-| **DFIR & reversing** | Volatility, MemProcFS, Autopsy, FTK Imager, Wireshark, IDA, Ghidra, Procmon |
-| **Security & investigation** | Burp Suite, Nmap, Splunk, Elastic Stack, CrowdStrike |
-| **Programming** | Python, Java, C/C++, Bash, Rust, SQL |
-| **Development & cloud** | Spring Boot, Django, Flutter, Docker, AWS, GitHub Actions, Prometheus, Grafana |
+- 🎓 Computer Science student at **Universitas Indonesia**
+- 🔐 Interested in **Digital Forensics, Incident Response, Malware Analysis, and Web Security**
+- 🛠️ I build projects across **cybersecurity, backend engineering, and cloud deployment**
+- 🧪 Active in **CTF**, challenge development, and hands-on security research
+- ☁️ Also work on **microservices, CI/CD, monitoring, and containerized deployments**
 
 ---
 
-<p align="center">
-  <a href="https://jaysenlestari.dev/"><strong>Read my research & write-ups →</strong></a>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-2C2C2C?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-0B4F3A?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-0A8DFF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-8E44AD?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-2C2C2C?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+### 🔐 Cybersecurity & DFIR
+<p>
+  <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-C62828?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA-1C1C1C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volatility-3B3B3B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autopsy-4A148C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FTK_Imager-546E7A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+### 🔹 [CTF Challenges Development](https://github.com/Jaysenlestari/CTF)
+Cybersecurity challenge development repository covering **forensics, web exploitation, and realistic attack scenario design**.
+
+**Highlights:**
+- Forensics and web challenge development
+- Realistic solving paths and scenario validation
+- Challenge authoring for training and competition use
+
+**Main stack:**  
+`Python` `Docker` `Linux` `Cybersecurity Tooling`
+
+---
+
+### 🔹 [JaStip Online Nasional (JSON)](https://github.com/advprog-2026-A8-project)
+A **microservices-based e-commerce platform** project built for Advanced Programming.
+
+**My contributions:**
+- Developed **Wallet & Transaction microservice** using Spring Boot
+- Deployed **all backend microservices** on AWS EC2 with Docker
+- Built **CI/CD pipelines** with GitHub Actions
+- Added **Prometheus, Grafana, Loki** for monitoring and observability
+- Integrated **CodeQL, Dependabot, and SonarCloud**
+
+**Main stack:**  
+`Java` `Spring Boot` `PostgreSQL` `Docker` `AWS` `GitHub Actions` `Prometheus` `Grafana`
+
+---
+
+### 🔹 [LigaPass — Web App](https://github.com/PBP-C-06/LigaPass)
+A **Django-based full-stack application** for football ticketing.
+
+**Highlights:**
+- Multi-role system
+- Backend and frontend integration
+- REST API support for mobile app connectivity
+
+**Main stack:**  
+`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+---
+
+### 🔹 [LigaPass — Mobile App](https://github.com/PBP-C-06/LigaPass-mobile)
+A **Flutter mobile client** integrated with the LigaPass backend.
+
+**Highlights:**
+- Mobile integration with backend APIs
+- Cross-platform app development
+- Companion app for the web platform
+
+**Main stack:**  
+`Flutter` `Dart` `REST API`
+
+---
+
+## 🌍 More About Me
+
+- 🌐 Portfolio: [jaysenlestari.dev](https://jaysenlestari.dev/)
+- 📝 I also publish technical write-ups and security research on my personal site
+- 📫 Reach me at: **lestarijaysen@gmail.com**
+
+---
+
+<p align="center"><i>Always learning, always building. 🚀</i></p>
